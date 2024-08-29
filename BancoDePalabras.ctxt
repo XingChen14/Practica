@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BancoDePalabras
+comment0.text=\r\n\ Un\ ejemplo\ con\ class\ BancoDePalabras.\r\n\ \r\n\ @author\ Ana\ Chen\ Zhang\r\n\ @version\ 21/08/2024\r\n
+comment1.params=palabra
+comment1.target=BancoDePalabras(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BancoDePalabras\r\n
+comment2.params=
+comment2.target=java.lang.String\ dameUnaPalabra()
+numComments=3
